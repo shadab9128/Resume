@@ -25,3 +25,9 @@ A clean, modern, and responsive web resume for DevOps professionals with interac
    ```bash
    git clone https://github.com/shadab9128/Resume.git
    ```
+
+## URL of Live Website
+
+```bash
+https://shadab9128.github.io/Resume/
+```
